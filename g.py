@@ -1,0 +1,1 @@
+print("guru mabb adiii")
