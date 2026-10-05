@@ -1,0 +1,4 @@
+print("add A,B")
+print("sub A,B")
+print("GURU")
+print(MULTI 3*3)
